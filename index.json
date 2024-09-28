@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Tachiyomi: LectorManga / TMO",
+    "pkg": "eu.kanade.tachiyomi.extension.es.lectortmo",
+    "apk": "tachiyomi-es.lectortmo-v1.4.4.apk",
+    "lang": "es",
+    "code": 4,
+    "version": "1.4.4",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "LectorManga",
+        "lang": "es",
+        "id": "7925520943983324764",
+        "baseUrl": "https://lectormanga.com",
+        "versionId": 1
+      },
+      {
+        "name": "TuMangaOnline",
+        "lang": "es",
+        "id": "4146344224513899730",
+        "baseUrl": "https://zonatmo.com",
+        "versionId": 1
+      }
+    ]
+  }
+]
